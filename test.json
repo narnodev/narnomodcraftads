@@ -1,0 +1,35 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"UNITY",
+      "main_ads_intertitial":"2838649e0b560a68",
+      "backup_ads_intertitial":"Android_Interstitial",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 0,
+      "initialize_sdk":"3916229",
+      "initialize_sdk_backup_ads":"3916229",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+"Skin": [
+   
+  ],
+  "Skin-Pack": [
+   
+  ],
+  "Addons": [
+   
+  ],
+  "Maps": [
+    
+  ]
+}
