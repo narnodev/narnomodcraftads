@@ -1,16 +1,16 @@
 {
    "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"UNITY",
       "main_ads_intertitial":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_intertitial":"Interstitial_Android",
       "open_ads_admob":"",
       "open_ads_alien":"1",
       "switch_open_ads":"1",
       "interval_intertitial": 0,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"5278189",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
